@@ -1,0 +1,19 @@
+C:\Users\gfranco\source\repos\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\gfranco\source\repos\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\gfranco\source\repos\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\gfranco\source\repos\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Login.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Servicios.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Clientes.Clientes.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Clientes.AñadirCliente.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.Usuarios.resources
+C:\Users\gfranco\source\repos\Salon\Salon\obj\Debug\Salon.AñadirUsuario.resources
