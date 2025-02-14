@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\loteka\\downloads\\salon (1)\\salon\\salon\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\clientes\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\clientes\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\clientes\\a\u00F1adircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\clientes\\a\u00F1adircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\clientes\\a\u00F1adircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\clientes\\a\u00F1adircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\facturaci\u00F3n\\facturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\facturaci\u00F3n\\facturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\salon\\resources\\icons8-multiply-23.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\resources\\icons8-multiply-23.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfranco\\source\\repos\\Salon\\salon\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfranco\\source\\repos\\Salon\\salon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Program.cs",
+              "RelativeDocumentMoniker": "Salon\\Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Program.cs",
+              "RelativeToolTip": "Salon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:42:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:46:27.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Servicios\\Servicios.cs",
+              "RelativeDocumentMoniker": "Salon\\Servicios\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Servicios\\Servicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Servicios\\Servicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:59:17.215Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Menu\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Menu\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:59:14.653Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Menu\\Menu.cs",
+              "RelativeToolTip": "Salon\\Menu\\Menu.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:00:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "icons8-multiply-23.png - PNG [23x23, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Resources\\icons8-multiply-23.png",
+              "RelativeDocumentMoniker": "Salon\\Resources\\icons8-multiply-23.png",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Resources\\icons8-multiply-23.png - PNG [23x23, 32 bits, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Resources\\icons8-multiply-23.png - PNG [23x23, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-11T14:32:00.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:59:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A\u00F1adirCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "RelativeDocumentMoniker": "Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:45:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:11:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Clientes\\Clientes.cs",
+              "RelativeDocumentMoniker": "Salon\\Clientes\\Clientes.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Clientes\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Clientes\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:16:57.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Salon\\Login\\Login.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Login\\Login.cs",
+              "RelativeToolTip": "Salon\\Login\\Login.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:35:22.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "A\u00F1adirUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeToolTip": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:49:02.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "A\u00F1adirCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "RelativeDocumentMoniker": "Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "RelativeToolTip": "Salon\\Clientes\\A\u00F1adirCliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:09:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Facturaci\u00F3n.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:27:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Downloads\\Salon (1)\\Salon\\Salon\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Salon\\Login\\Login.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Login\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Login\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:07:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Servicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:02:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs",
+              "ToolTip": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:44:45.956Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
